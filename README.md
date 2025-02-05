@@ -1,6 +1,11 @@
-## Hi there 👋
+### Hello!
 
-<!--
+- I'm a computer science super beginner
+- Brand new to GitHub
+- Just getting started with html and css
+- Can't wait for all the javascript stuff
+
+<!-- 
 **daniellebrowning/daniellebrowning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
